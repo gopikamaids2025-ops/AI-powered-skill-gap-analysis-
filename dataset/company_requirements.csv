@@ -1,0 +1,11 @@
+Company,Role,Min_CGPA,Min_Coding,Min_DSA,Min_SQL,Min_Python,Min_Projects,Min_Internships,Key_Skills
+TCS (Digital),Software Engineer,7.0,65,60,60,65,2,0,"Python, Java, SQL, DSA"
+Infosys (Specialist Programmer),Systems Engineer / SP,7.5,70,65,60,70,2,1,"Python, Data Structures, OOP, SQL"
+Zoho Corporation,Software Developer,7.0,75,70,65,65,2,1,"Problem Solving, C/C++, Java, SQL, Web"
+Wipro (Turbo),Project Engineer,6.5,60,55,55,60,1,0,"Programming Basics, SQL, Data Structures"
+Cognizant (GenC Elevate),Associate Software Engineer,6.8,65,60,60,65,2,0,"Python, Cloud Basics, Web, SQL"
+Accenture (Advanced ASE),Associate Software Engineer,7.0,70,65,60,65,2,0,"Agile, Python, Java, Cloud, Testing"
+Amazon,SDE Intern / Grad,8.0,85,80,75,80,3,1,"Data Structures, Algorithms, System Design, AWS"
+Microsoft,Software Development Engineer,8.0,85,80,70,80,3,1,"Data Structures, Algorithms, C++, Python, Azure"
+Data Analytics Labs,Junior Data Analyst,7.0,60,50,75,75,2,0,"SQL, Python, Power BI, Excel, Statistics"
+FinTech Solutions,Associate Backend Engineer,7.5,75,70,75,70,2,1,"Python, Django/FastAPI, SQL, Docker, APIs"

@@ -1,0 +1,25 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Private credentials
+.env
+.streamlit/secrets.toml
+
+# User data
+data/users.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+Screenshots/
+desktop.ini
