@@ -1,1 +1,27 @@
+﻿PROJECT NAME: AI-Powered Skill Gap Analysis and Placement Readiness Prediction System
 
+PROJECT DESCRIPTION:
+A Streamlit-based application that helps students identify skill gaps between their resumes and job descriptions and assess their placement readiness.
+
+KEY FEATURES:
+1. Resume upload and analysis.
+2. Job description and requirement analysis.
+3. Skill matching and skill gap identification.
+4. Placement readiness prediction using machine learning.
+5. Personalized learning recommendations and career guidance.
+
+TECHNOLOGIES USED:
+Python, Streamlit, Pandas, Scikit-learn, Machine Learning, HTML/CSS.
+
+HOW TO RUN:
+1. Clone or download this repository.
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the application:
+   streamlit run app/app.py
+
+GITHUB REPOSITORY:
+https://github.com/gopikamaids2025-ops/AI-powered-skill-gap-analysis-
+
+NOTE:
+Skill gap analysis and recommendations are rule-based. Placement readiness prediction uses a trained machine learning model.
